@@ -1,0 +1,72 @@
+.font {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+  }
+  
+  .color-body{
+    height: 100vh;
+    background-color: #50577A;
+    color: #526D82;
+  }
+  
+  .btn_style{
+    border-radius: .7rem;
+  }
+
+  .normal_state {
+    color: #E74646;
+    background-color: #fff;
+  }
+
+
+  .hover:hover{
+    color: #fff;
+    background-color: #E74646;
+  }
+
+  .focus:focus{
+    color: #fff;
+    background-color: #E74646;
+  }
+
+  .header{
+    font-size: 2.2rem;
+    font-weight: 500;
+    margin-top: 3rem;
+  }
+
+  .underline{
+    height: 1px;
+    width: 150px;
+    border-radius: 10px;
+    border: 2px solid #E74646;
+  }
+
+  .brand-logo{
+    color: #E74646;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .card_title{
+    font-size: 1.7rem;
+    font-weight: 500;
+  }
+
+  .card_desc{
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+
+  .card_Pricing{
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: #E74646;
+  }
+
+  .card_img{
+    border-radius: 1rem;
+    height: 300px;
+    width: 400px;
+    
+  }
